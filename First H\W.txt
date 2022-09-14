@@ -30,16 +30,27 @@ int main()
 
 C#:
 
-Console.WriteLine("Please enter A :");
-double a = Convert.ToDouble(Console.ReadLine());
+namespace MyNamespace
+{
+    class MyClass
+    {
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Please enter A :");
+            double a = Convert.ToDouble(Console.ReadLine());
 
 
-Console.WriteLine("Please enter B : ");
-double b = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Please enter B : ");
+            double b = Convert.ToDouble(Console.ReadLine());
 
 
 
-double x = (a + b - (a - b) * (-1) / 4);
-double y = 3 * x + 5;
-Console.WriteLine("X : " + x);
-Console.WriteLine("Y : " + y);
+            double x = (a + b - (a - b) * (-1) / 4);
+            double y = 3 * x + 5;
+            Console.WriteLine("X : " + x);
+            Console.WriteLine("Y : " + y);
+        
+        }
+    }
+}
