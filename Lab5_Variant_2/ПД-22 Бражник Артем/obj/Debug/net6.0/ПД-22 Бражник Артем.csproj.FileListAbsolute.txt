@@ -1,0 +1,15 @@
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\bin\Debug\net6.0\ПД-22 Бражник Артем.exe
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\bin\Debug\net6.0\ПД-22 Бражник Артем.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\bin\Debug\net6.0\ПД-22 Бражник Артем.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\bin\Debug\net6.0\ПД-22 Бражник Артем.dll
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\bin\Debug\net6.0\ПД-22 Бражник Артем.pdb
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ПД-22 Бражник Артем.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ПД-22 Бражник Артем.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ПД-22 Бражник Артем.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ПД-22 Бражник Артем.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ПД-22 Бражник Артем.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ПД-22 Бражник Артем.dll
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\refint\ПД-22 Бражник Артем.dll
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ПД-22 Бражник Артем.pdb
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ПД-22 Бражник Артем.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\ПД-22 Бражник Артем\ПД-22 Бражник Артем\obj\Debug\net6.0\ref\ПД-22 Бражник Артем.dll
