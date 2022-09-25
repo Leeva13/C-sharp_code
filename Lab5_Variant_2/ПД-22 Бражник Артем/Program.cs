@@ -12,7 +12,7 @@ int[,] arr = { { 4, 7, 2, -1 },
              { 12, 6, 4, 0 }, 
              { 5, 9, 0, 2 }, 
              { 8, 7, 34, 7 } 
-       }; //    array 4 * 4    \\
+       }; //    array 4 * 5    \\
 int heigth = arr.GetLength(0);
 int width = arr.GetLength(1);
 
